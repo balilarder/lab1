@@ -1,0 +1,32 @@
+Script started on 2015年03月10日 (週二) 17時57分18秒
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ whoami; pwd
+C44021032
+/home/C44021032
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$  git config ‐l[1Pl-l[Kl
+git: 'config -l' is not a git command. See 'git --help'.
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$  git clone https://github.com/<your github account>/lab1.gi t[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitb/lab1.gita/lab1.gitl/lab1.giti/lab1.gitl/lab1.gita/lab1.gitr/lab1.gitd/lab1.gite/lab1.gitr/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ cat lab[K[K[K[K[K[K[Kls
+lab1  lab1.script
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ lswhoami; pwdgit clone https://github.com/balilarder/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ cd lad[Kb1
+bash: cd: lab1: Not a directory
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ ls
+lab1  lab1.script
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ ls
+lab1  lab1.script
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ lscd lab1
+bash: cd: lab1: Not a directory
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ got[K[K[Kgot [K[K[Kit clone  [Khttps://github.com/balilarder/lab.git
+Cloning into 'lab'...
+Username for 'https://github.com': ^[[A    ^C
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ git clone https://github.com/balilarder/lab.git1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ ls
+lab1  lab1.script
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ cat lac[Kn [K[Kb1.script 
+]0;C44021032@2015cpp: ~C44021032@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 18時07分25秒
